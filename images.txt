@@ -1,4 +1,5 @@
-elasticsearch:7.16.3
+skywalking-oap-server:9.4.0
+skywalking-ui:9.4.0
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
