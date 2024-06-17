@@ -1,4 +1,4 @@
---platform=linux/arm64 1panel/openresty:latest
+--platform=linux/arm64 moelin/1panel:v1.10.10-lts
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
